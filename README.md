@@ -6,4 +6,4 @@
 ----
 
 ## 정보처리기사
-#### [1강. 프로그래밍언어]()
+#### [1강. 프로그래밍언어](https://github.com/JustBasicPro/Study/tree/main/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC/1%EA%B0%95)
