@@ -9,4 +9,4 @@
 
 ## 정보처리기사(프로그래밍 언어)
 #### [1강. C,JAVA,PYTHON 중 택 1](https://github.com/JustBasicPro/Study/tree/main/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC/1%EA%B0%95)
-#### [2강. 메모리 관리기법](https://github.com/JustBasicPro/Study/tree/main/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC/1%EA%B0%95)
+#### [2강. 메모리 관리기법](https://github.com/JustBasicPro/Study/tree/main/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC/2%EA%B0%95)
