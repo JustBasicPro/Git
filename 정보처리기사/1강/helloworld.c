@@ -2,9 +2,5 @@
 
 int main(void){
 printf("Hello world");
-int a;
-if(a = 1)
-a = scanf("My number is");
-return 0;
 }
 
