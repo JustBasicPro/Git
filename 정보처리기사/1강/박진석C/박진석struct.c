@@ -12,7 +12,7 @@ struct PERSON {
 int main() {
     struct PERSON p1 = {"박진석", 29}; 
     struct PERSON p2;
-    strcpy(p2.name, "보리");
+    strcpy(p2.name, "박보리");
     p2.age = 4;
     struct PERSON p3[2] = {
         {"손성우",30},
@@ -21,4 +21,5 @@ int main() {
     printf("이름:%s 나이:%d\n", p1.name, p1.age);
     printf("이름:%s 나이:%d\n", p2.name, p2.age);
     printf("이름:%s 나이:%d\n", p3[0].name, p3[0].age);
+    printf("이름:%s 나이:%d\n", p3[1].name, p3[1].age);
 }

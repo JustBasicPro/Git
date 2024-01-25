@@ -11,6 +11,6 @@ typedef struct {
 } PERSON;
 
 int main() {
-    PERSON p4 = {"금붕어",40,"서울"};
-    printf(" 이름 : %s \n 나이 : %d \n 사는곳 : %s", p4.name, p4.age, p4.address);
+    PERSON p4 = {"박진석",29,"서울"};
+    printf(" 이름 : %s  나이 : %d  사는곳 : %s", p4.name, p4.age, p4.address);
 };
