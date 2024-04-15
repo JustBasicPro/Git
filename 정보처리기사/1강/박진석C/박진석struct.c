@@ -13,6 +13,21 @@ int main() {
     struct PERSON p1 = {"박진석", 29}; 
     struct PERSON p2;
     strcpy(p2.name, "박보리");
+    int myMoney = 2481050;
+    int kakaoSubs = 990;  
+    int MonthlyRent = 500000 ;
+    int annuityInsurance = 100000 ;
+    int IRP = 100000 ;
+    int subscription= 100000 ;
+    int LeapAccount= 700000 ;
+    int tel= 57000 ;
+    int actualCostInsurance = 10100 ;
+    int cesco = 19000 ;
+    int transportationExpenses = 62000 ;
+    int netflix= 13500 ;
+    int Udok= 9900 ;
+    int card = 600000;
+    int bori = 20000;
     p2.age = 4;
     struct PERSON p3[2] = {
         {"손성우",30},
@@ -22,4 +37,5 @@ int main() {
     printf("이름:%s 나이:%d\n", p2.name, p2.age);
     printf("이름:%s 나이:%d\n", p3[0].name, p3[0].age);
     printf("이름:%s 나이:%d\n", p3[1].name, p3[1].age);
+    printf("남는돈 : %d 원 \n", myMoney - (kakaoSubs + MonthlyRent + annuityInsurance + IRP + subscription + LeapAccount + tel + actualCostInsurance + cesco+ transportationExpenses + netflix+ Udok + card + bori));
 }
